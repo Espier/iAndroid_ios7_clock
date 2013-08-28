@@ -3,7 +3,7 @@ package org.espier.clock7;
 import android.app.Activity;
 import android.os.Bundle;
 
-public class EspierClock extends Activity
+public class EspierClock7 extends Activity
 {
     /** Called when the activity is first created. */
     @Override
